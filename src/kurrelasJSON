@@ -1,0 +1,19 @@
+{
+    "nombre":"",
+    "apellido_1":"",
+    "apellido_2":"",
+    "email_1":"",
+    "email_2":"",
+    "direccion":"",
+    "estado":"",
+    "cp":"",
+    "telefono":"",
+    "fecha_nac":"",
+    "username":"",
+    "pass":"",
+    "paypal_email":"",
+    "paypal_user":"",
+    "paypal_pass":"",
+    "fineproxy":"",
+    "hmass":""
+}
