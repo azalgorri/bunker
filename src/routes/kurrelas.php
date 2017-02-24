@@ -208,4 +208,3 @@ $app->delete('/api/kurrela/delete/{id}', function (Request $request, Response $r
         echo '{"error": {"text": ' . $e->getMessage() . '}}';
     }
 });
-
